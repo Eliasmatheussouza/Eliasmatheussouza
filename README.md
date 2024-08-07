@@ -1,7 +1,8 @@
 ## Hey, I'm Matheus!
 
 - 🙍🏻‍♂️ *Consultant* in [Business Integration Partners](https://bipbrasil.com.br/)
-- 🌍 Graduated in Foreign Languages Applied to International Negotiations
+- 📝 Graduated in Foreign Languages Applied to International Negotiations
+- 🌍 Exploring new places and immersing myself in different cultures is my passion
 - 🖥️ I'm currently learning *Python* and *SQL*
 
 <div display="inline">
