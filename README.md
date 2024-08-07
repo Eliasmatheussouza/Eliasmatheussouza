@@ -15,7 +15,7 @@
 
 ### Find me in:
 
-https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+<img width="50" height="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" />
 
 
 
