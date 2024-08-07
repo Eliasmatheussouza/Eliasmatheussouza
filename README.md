@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hey, I'm Matheus!
+
+🙍🏻‍♂️ *Consultant* in [Business Integration Partners](https://bipbrasil.com.br/)
+🌍 Graduated in Foreign Languages Applied to International Negotiations
+🖥️ I'm currently learning *Python* and *SQL*
+
+<div display="inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+</div>
+
 
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
