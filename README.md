@@ -11,8 +11,6 @@
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
-
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="matheus-elias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/matheus-elias/pt?trk=profile-badge">Matheus Souza</a></div>
           
 </div>
 
