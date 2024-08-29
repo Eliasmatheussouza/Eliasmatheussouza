@@ -37,6 +37,10 @@
   <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
+<a href="https://www.figma.com/files/team/1291864964373334587/recents-and-sharing/recently-viewed?fuid=1291864959197722991">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
