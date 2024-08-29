@@ -33,6 +33,10 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a>
 
+<a href="https://www.kaggle.com/souzaeliasmath123533">
+  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
