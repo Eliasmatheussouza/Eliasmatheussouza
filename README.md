@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/SouzaMatheus123/">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+</a>
+
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
