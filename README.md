@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />
 </a>
 
-<a href="https://www.coursera.org/account-profile">
+<a href="https://www.coursera.org/user/1c76e17204d75875ad9fef67e9bf3129">
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 
