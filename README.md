@@ -1,6 +1,6 @@
 ## Hey, I'm Matheus!
 
-- 🙍🏻‍♂️ *Consultant* in [Business Integration Partners](https://bipbrasil.com.br/)
+- 🙍🏻‍♂️ *Research Analyst* in [Turing](https://www.turing.com/)
 - 📝 Graduated in Foreign Languages Applied to International Negotiations
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
 - 🖥️ I am currently diving into *Python*, *R*, *SQL* and *Machine Learning*.
