@@ -1,7 +1,7 @@
 ## Hey, I'm Matheus!
 
 - 🙍🏻‍♂️ *AI Prompt Engineer* in [Turing](https://www.turing.com/)
-- 📝 Graduated in International Business
+- 📝 Bachelor in International Business
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
 - 🖥️ I am currently diving into *Python*, *R*, *SQL*, *Machine Learning* and *Cloud Computing*
 
