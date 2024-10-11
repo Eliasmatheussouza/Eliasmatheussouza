@@ -1,9 +1,9 @@
 ## Hey, I'm Matheus!
 
-- 🙍🏻‍♂️ *Research Analyst* in [Turing](https://www.turing.com/)
+- 🙍🏻‍♂️ *AI Prompt Engineer* in [Turing](https://www.turing.com/)
 - 📝 Graduated in Foreign Languages Applied to International Negotiations
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
-- 🖥️ I am currently diving into *Python*, *R*, *SQL* and *Machine Learning*.
+- 🖥️ I am currently diving into *Python*, *R*, *SQL*, *Machine Learning* and *Cloud Computing*
 
 <div display="inline">
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
