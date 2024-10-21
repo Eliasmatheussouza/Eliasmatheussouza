@@ -1,9 +1,11 @@
 ## Hi, I'm Matheus! 👋
 
+I'm a Data Scientist and Machine Learning enthusiast with experience in Python, R, RDBMS, Data Visualization and Cloud Computing.
+
 - 🙍🏻‍♂️ *AI Prompt Engineer* in [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
-- 🖥️ I am currently diving into *Python*, *R*, *SQL*, *Machine Learning* and *Cloud Computing*
+- 🖥️ I am currently diving into *LLMs* and *Artificial Intelligence*
 
 <div display="inline">
   &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
