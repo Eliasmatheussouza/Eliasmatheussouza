@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a Data Scientist and Machine Learning enthusiast with experience in Python, R, RDBMS, Data Visualization.
+I'm a Data Scientist and Machine Learning enthusiast with experience in Python, R, RDBMS and Data Visualization.
 
 - 🙍🏻‍♂️ *AI Prompt Engineer* in [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
