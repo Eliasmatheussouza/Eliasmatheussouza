@@ -1,4 +1,4 @@
-## Hey, I'm Matheus!
+## Welcome, I'm Matheus!
 
 - 🙍🏻‍♂️ *AI Prompt Engineer* in [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
