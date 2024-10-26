@@ -8,7 +8,7 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 - 🖥️ I am currently diving into *LLMs* and *Artificial Intelligence*
 - 
 
-### Badges
+### Badges 🪪
 See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-portfolio)
 
 <a href="https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714">
@@ -28,7 +28,7 @@ See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-po
 </a>
 
 
-### Skills
+### Skills 💼
 
 <div display="inline">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
