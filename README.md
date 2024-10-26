@@ -58,7 +58,10 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;<img width="40" height="40" src="https://github.com/user-attachments/assets/cdabbef9-a1d3-4f7c-b84e-b06ccc9a496d" />&nbsp;&nbsp;
+
+<a href="https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714">
+  <img src="![image](https://github.com/user-attachments/assets/bac56774-6daa-4b48-8dba-662bd436f3b1)" alt="Visite o site" width="80" />
+</a>
 
 
 <!--
