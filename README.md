@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/61d28c6e-ec73-401f-92f9-fb4f6e7a3c5f)## Hi, I'm Matheus! 👋
+## Hi, I'm Matheus! 👋
 
 I'm a Data Scientist and Machine Learning enthusiast with experience in Python, R, RDBMS and Data Visualization.
 
