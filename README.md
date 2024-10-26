@@ -7,6 +7,9 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
 - 🖥️ I am currently diving into *LLMs* and *Artificial Intelligence*
 
+
+### Skills
+
 <div display="inline">
   &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
