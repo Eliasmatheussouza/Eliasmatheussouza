@@ -58,12 +58,8 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 
-## My Certifications
-
-## My Certifications
-
-[![Data Science Certification](https://github.com/Eliasmatheussouza/badge-assets/blob/![image])](https://github.com/user-attachments/assets/7e3a4c67-da95-4c2e-b924-54ef3d9f3f3c)
-.png)](https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714)
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
