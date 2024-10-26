@@ -1,4 +1,4 @@
-## Hi, I'm Matheus! 👋
+![image](https://github.com/user-attachments/assets/61d28c6e-ec73-401f-92f9-fb4f6e7a3c5f)## Hi, I'm Matheus! 👋
 
 I'm a Data Scientist and Machine Learning enthusiast with experience in Python, R, RDBMS and Data Visualization.
 
@@ -60,7 +60,10 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 
 ## My Certifications
 
-[![Badge Title](https://www.credly.com/users/matheus-souza.bd9e27e7/edit)
+## My Certifications
+
+[![Data Science Certification](https://github.com/Eliasmatheussouza/badge-assets/blob/![image])](https://github.com/user-attachments/assets/7e3a4c67-da95-4c2e-b924-54ef3d9f3f3c)
+.png)](https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714)
 
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
