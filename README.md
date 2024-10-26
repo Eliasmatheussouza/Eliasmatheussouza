@@ -20,8 +20,12 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
   &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />&nbsp;&nbsp;
           
-          
-          
+
+### Badges
+
+<a href="https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714">
+  <img src="https://github.com/user-attachments/assets/bac56774-6daa-4b48-8dba-662bd436f3b1" width="100" />
+</a>
   
           
 </div>
@@ -56,11 +60,6 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 
 <a href="https://www.coursera.org/user/1c76e17204d75875ad9fef67e9bf3129">
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
-</a>
-
-
-<a href="https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714">
-  <img src="https://github.com/user-attachments/assets/bac56774-6daa-4b48-8dba-662bd436f3b1" width="100" />
 </a>
 
 
