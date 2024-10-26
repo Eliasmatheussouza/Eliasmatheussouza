@@ -28,7 +28,7 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 </a>
 
 <a href="https://www.credly.com/earner/earned/badge/dfa6c8a5-7c91-4c76-9fa4-e777b416ba66">
-  <img src="![image](https://github.com/user-attachments/assets/66174207-e015-4d9a-9f7f-bad57c5f4032)" width="100" />
+  <img src="https://github.com/user-attachments/assets/66174207-e015-4d9a-9f7f-bad57c5f4032" width="100" />
 </a>
   
           
