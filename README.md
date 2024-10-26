@@ -8,6 +8,10 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 - 🖥️ I am currently diving into *LLMs* and *Artificial Intelligence*
 
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+
 ### Skills
 
 <div display="inline">
