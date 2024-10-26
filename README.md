@@ -30,7 +30,14 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 <a href="https://www.credly.com/earner/earned/badge/dfa6c8a5-7c91-4c76-9fa4-e777b416ba66">
   <img src="https://github.com/user-attachments/assets/66174207-e015-4d9a-9f7f-bad57c5f4032" width="100" />
 </a>
-  
+
+<a href="https://www.credly.com/earner/earned/badge/322ee9db-f6f5-4214-a792-81ffacd05bdd">
+  <img src="https://github.com/user-attachments/assets/2e35c245-d63c-448f-9660-d45f0776a0e4" width="100" />
+</a>
+
+<a href="https://www.credly.com/earner/earned/badge/a9468df6-146e-4f47-870f-f22d00740e14">
+  <img src="https://github.com/user-attachments/assets/784ab462-ac1c-41f1-96b7-9ca79ae69411" width="100" />
+</a>
           
 </div>
 
