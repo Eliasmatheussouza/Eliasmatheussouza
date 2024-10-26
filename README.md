@@ -30,14 +30,14 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 ### Skills
 
 <div display="inline">
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />&nbsp;&nbsp;
           
 </div>
 
@@ -47,7 +47,6 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 <a href="https://www.linkedin.com/in/matheus-elias/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 <a href="https://www.hackerrank.com/profile/riobr8">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
