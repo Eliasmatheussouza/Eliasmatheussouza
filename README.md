@@ -58,7 +58,6 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 
-![image](https://github.com/user-attachments/assets/cdabbef9-a1d3-4f7c-b84e-b06ccc9a496d)
 &nbsp;&nbsp;<img width="40" height="40" src="https://github.com/user-attachments/assets/cdabbef9-a1d3-4f7c-b84e-b06ccc9a496d" />&nbsp;&nbsp;
 
 
