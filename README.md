@@ -8,19 +8,6 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 - 🖥️ I am currently diving into *LLMs* and *Artificial Intelligence*
 - 
 
-### Skills
-
-<div display="inline">
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />&nbsp;&nbsp;
-          
-
 ### Badges
 
 <a href="https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714">
@@ -38,6 +25,19 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 <a href="https://www.credly.com/earner/earned/badge/a9468df6-146e-4f47-870f-f22d00740e14">
   <img src="https://github.com/user-attachments/assets/784ab462-ac1c-41f1-96b7-9ca79ae69411" width="100" />
 </a>
+
+
+### Skills
+
+<div display="inline">
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />&nbsp;&nbsp;
           
 </div>
 
