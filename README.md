@@ -6,11 +6,7 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 - 📝 Bachelor's degree in International Business
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
 - 🖥️ I am currently diving into *LLMs* and *Artificial Intelligence*
-
-
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
+- 
 
 ### Skills
 
@@ -61,6 +57,9 @@ I'm a Data Scientist and Machine Learning enthusiast with experience in Python, 
 <a href="https://www.coursera.org/user/1c76e17204d75875ad9fef67e9bf3129">
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
