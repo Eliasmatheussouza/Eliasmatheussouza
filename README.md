@@ -56,14 +56,6 @@ See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-po
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 </a>
 
-<a href="https://www.kaggle.com/souzaeliasmath123533">
-  <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="https://www.figma.com/files/team/1291864964373334587/recents-and-sharing/recently-viewed?fuid=1291864959197722991">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-
 <a href="https://profile.edx.org/u/MatheusEliasSouza?_gl=1*4ofea7*_gcl_aw*R0NMLjE3MjQ3MDAxMTQuQ2owS0NRand6N0MyQmhEa0FSSXNBQV9TWktiSC1vU0x3aUxfc2JsVDFwRXpGNEZpNm8xU1JIbnVhQ2YwYWpFNXMxWk9NRFhKckVDOXIzTWFBdVJFRUFMd193Y0I.*_gcl_au*MjMzODMzODI5LjE3MjQyNzE3NDU.*_ga*MTM4NjM5NzUyNi4xNzI0MjcxNzQ1*_ga_D3KS4KMDT0*MTcyNDk2NjE2NC4xMS4xLjE3MjQ5NjYyMDIuMjIuMC4w">
   <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" />
 </a>
