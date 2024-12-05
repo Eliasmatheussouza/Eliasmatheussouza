@@ -5,7 +5,7 @@ I'm a Machine Learning enthusiast with experience in Python, R, RDBMS and Data V
 - 🙍🏻‍♂️ *LLM Engineer* at [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
-- 🖥️ I am currently diving into *LLMs* and *Artificial Intelligence*
+- 🖥️ I am currently diving into *Cloud Computing*
 
 ### Badges 🪪
 See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-portfolio)
