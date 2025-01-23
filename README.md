@@ -1,11 +1,11 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a Machine Learning enthusiast with experience in Python, R, SQL and Data Visualization.
+I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 - 🙍🏻‍♂️ *LLM Engineer* at [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
-- 🖥️ I am currently diving into *Cloud Computing*
+- 🖥️ I am currently diving into *Cloud Computing* and *Machine Learning*
 
 ### Badges 🪪
 See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-portfolio)
