@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a Machine Learning enthusiast with experience in Python, R, RDBMS and Data Visualization.
+I'm a Machine Learning enthusiast with experience in Python, R, SQL and Data Visualization.
 
 - 🙍🏻‍♂️ *LLM Engineer* at [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
