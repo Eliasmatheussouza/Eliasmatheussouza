@@ -26,7 +26,7 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact&theme=dark)
 
 ##
 
