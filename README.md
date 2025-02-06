@@ -47,7 +47,7 @@ See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-po
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact)
 
 ###
 
