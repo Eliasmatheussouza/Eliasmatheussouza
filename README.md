@@ -22,14 +22,6 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 ###
 
-![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmatheussouza&show_icons=true&theme=transparent)
-
-###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact&theme=dark)
-
-###
-
 <div style="display: flex; justify-content: center;">
   <img src="![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmatheussouza&show_icons=true&theme=transparent)" width="48%">
   <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact&theme=dark)" width="48%">
