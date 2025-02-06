@@ -28,6 +28,13 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact&theme=dark)
 
+###
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmatheussouza&show_icons=true&theme=transparent)" width="400">
+  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact&theme=dark)" width="400">
+</div>
+
 ##
 
 ### Badges 🪪
