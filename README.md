@@ -7,8 +7,7 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 - 🌍 Exploring new places and immersing myself in different cultures is my passion
 - 🖥️ I am currently diving into *Cloud Computing* and *Machine Learning*
 
-### Skills 💼
-
+###
 <div display="inline">
   <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
