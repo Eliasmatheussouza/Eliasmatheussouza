@@ -41,7 +41,7 @@ See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-po
           
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ##
 
