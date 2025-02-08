@@ -26,10 +26,6 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 ###
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-1.3%20million%20Lines%20of%20code-blue)
-
-###
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&layout=compact&theme=dark)
 
 ### Badges 🪪
