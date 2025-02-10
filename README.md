@@ -4,7 +4,7 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 - 🙍🏻‍♂️ *LLM Engineer* at [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
-- 🌍 Exploring new places and immersing myself in different cultures is my passion
+- 🌍 Learning new skills and exploring unknown solutions is my passion
 - 🖥️ I am currently diving into *Cloud Computing* and *Machine Learning*
 
 ###
@@ -63,7 +63,6 @@ See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-po
 <a href="https://www.coursera.org/user/1c76e17204d75875ad9fef67e9bf3129">
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
-
 
 <!--
 **Eliasmatheussouza/Eliasmatheussouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
