@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a data science enthusiast with knowledge of Python/R, SQL/Excel, and BI tools.
+I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 - 🙍🏻‍♂️ *LLM Engineer* at [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
