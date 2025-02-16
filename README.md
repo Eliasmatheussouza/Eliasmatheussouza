@@ -4,7 +4,7 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 - 🙍🏻‍♂️ *LLM Engineer* at [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
-- 🌍 Learning new skills and exploring unknown solutions is my passion
+- 🌍 Learning new skills and exploring data-driven solutions is my passion
 - 🖥️ I am currently diving into *Cloud Computing* and *Machine Learning*
 
 ###
