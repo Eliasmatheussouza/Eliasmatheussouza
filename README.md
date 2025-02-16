@@ -24,6 +24,10 @@ I'm a data science enthusiast with knowledge of Python, R, SQL, and BI tools.
 
 ![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmatheussouza&show_icons=true&theme=transparent)
 
+###
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ### Badges 🪪
 See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-portfolio)
 
