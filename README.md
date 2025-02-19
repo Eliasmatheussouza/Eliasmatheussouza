@@ -26,7 +26,7 @@ I'm a junior data engineer with knowledge of Python, R, SQL, and BI tools.
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&hide_progress=true&theme=dark)
 
 ### Badges 🪪
 See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-portfolio)
