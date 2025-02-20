@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a junior data engineer with knowledge of Python, R, SQL, and BI tools.
+I'm a junior data scientist with knowledge of Python, R, SQL, and BI tools.
 
 - 🙍🏻‍♂️ *LLM Engineer* at [Turing](https://www.turing.com/)
 - 📝 Bachelor's degree in International Business
