@@ -22,10 +22,6 @@ I'm a data scientist with hands-on experience in Python, R, SQL, and BI.
 
 ###
 
-![Matheus' GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasmatheussouza&show_icons=true&theme=transparent)
-
-###
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&hide_progress=true&theme=dark)
 
 ### Badges 🪪
