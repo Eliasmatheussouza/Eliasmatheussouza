@@ -2,7 +2,7 @@
 
 I'm a data scientist with hands-on experience in Python, R, SQL, and BI.
 
-- 🙍🏻‍♂️ *Data Scientist* at [Turing](https://www.turing.com/)
+- 🙍🏻‍♂️ *Data Scientist*.
 - 📝 Bachelor's degree in International Business
 - 🌍 Learning new skills and exploring data-driven solutions is my passion
 - 🖥️ I am currently mastering *Databricks*, *BigQuery*, *Docker*, *Airflow*, and *Machine Learning*
