@@ -1,11 +1,11 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a data scientist with hands-on experience in Python, R, SQL, and BI.
+I'm a data analyst with hands-on experience in Python, SQL, and BI tools.
 
-- 🙍🏻‍♂️ *Data Scientist*.
+- 🙍🏻‍♂️ *AI Engineer*
 - 📝 Bachelor's degree in International Business
 - 🌍 Learning new skills and exploring data-driven solutions is my passion
-- 🖥️ I am currently mastering *Databricks*, *BigQuery*, *Docker*, *Airflow*, and *Machine Learning*
+- 🖥️ I am currently mastering *Databricks*, *PySpark*, *Airflow*, and *Machine Learning*
 
 ###
 <div display="inline">
