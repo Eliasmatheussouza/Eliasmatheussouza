@@ -5,7 +5,7 @@ I'm a data analyst with hands-on experience in Python, SQL, and BI tools.
 - 🙍🏻‍♂️ *Data Science and Analytics*
 - 📝 Bachelor's degree in International Business
 - 🌍 Learning new skills and exploring data-driven solutions is my passion
-- 🖥️ I am currently mastering *Databricks*, *PySpark*, *Airflow*, and *Machine Learning*
+- 🖥️ I am currently mastering *Databricks*, *PySpark*, and *Machine Learning*
 
 ###
 <div display="inline">
