@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a data analyst with hands-on experience in Python, SQL, and BI tools.
+I'm a data analyst with hands-on experience in Python, SQL, and Power BI.
 
 - 🙍🏻‍♂️ *Data Science and Analytics*
 - 📝 Bachelor's degree in International Business
