@@ -1,11 +1,11 @@
 ## Hi, I'm Matheus! 👋
 
-I'm a data analyst with hands-on experience in Python, SQL, and Power BI.
+I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions on GCP.
 
-- 🙍🏻‍♂️ *Data Science and Analytics*
+- 🙍🏻‍♂️ *Data Analytics*
 - 📝 Bachelor's degree in International Business
 - 🌍 Passionate about transforming complex data into strategic insights
-- 🖥️ I am currently mastering *Databricks*, *Snowflake*, and *Machine Learning*
+- 🖥️ I am currently mastering *Databricks*, *Snowflake*, and *dbt*
 
 ###
 <div display="inline">
