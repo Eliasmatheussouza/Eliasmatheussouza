@@ -2,7 +2,7 @@
 
 I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions on GCP.
 
-- 🙍🏻‍♂️ *Data Analytics*
+- 🙍🏻‍♂️ *Data Engineering and Analytics*
 - 📝 Bachelor's degree in International Business
 - 🌍 Passionate about transforming complex data into strategic insights
 - 🖥️ I am currently mastering *Databricks*, *Snowflake*, and *dbt*
