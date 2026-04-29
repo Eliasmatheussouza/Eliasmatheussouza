@@ -20,10 +20,6 @@ I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions
           
 </div>
 
-###
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasmatheussouza&hide_progress=true&theme=dark)
-
 ### Badges 🪪
 See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-portfolio)
 
