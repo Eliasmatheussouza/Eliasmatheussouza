@@ -8,9 +8,32 @@ I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions
 - 🖥️ I am currently mastering *Databricks*, *Snowflake*, and *dbt*
 
 ###
+<h3>Languages</h3>
 <div align="left">
 
-<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+| Python | dbt |
+|--------|-----|
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> | <img width="40" src="https://cdn.simpleicons.org/dbt/FF694B"/> |
+
+</div>
+
+<h3>Cloud & Platforms</h3>
+<div align="left">
+
+| GCP | BigQuery | Looker | Databricks |
+|-----|----------|--------|------------|
+| <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/> | <img width="40" src="https://cdn.simpleicons.org/googlebigquery/4285F4"/> | <img width="40" src="https://cdn.simpleicons.org/looker/4285F4"/> | <img width="40" src="https://cdn.simpleicons.org/databricks/FF3621"/> |
+
+</div>
+
+<h3>Tools</h3>
+<div align="left">
+
+| Vertex AI |
+|-----------|
+| <img width="40" src="https://cdn.simpleicons.org/googlevertexai/4285F4"/> |
+
+</div>
 
 </div>
           
