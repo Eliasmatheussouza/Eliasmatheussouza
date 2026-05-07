@@ -18,8 +18,6 @@ I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions
   <img width="40" src="https://cdn.simpleicons.org/looker/4285F4"/>
   &nbsp;&nbsp;&nbsp;
   <img width="40" src="https://cdn.simpleicons.org/databricks/FF3621"/>
-  &nbsp;&nbsp;&nbsp;
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"/>
 </div>
 
 ### Find me in:
