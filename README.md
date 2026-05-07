@@ -16,25 +16,6 @@ I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions
           
 </div>
 
-### Badges 🪪
-See all [here](https://www.credly.com/users/matheus-souza.bd9e27e7/edit#badge-portfolio)
-
-<a href="https://www.credly.com/earner/earned/badge/1e4e4f46-0ad7-4c03-880c-5bb466f15714">
-  <img src="https://github.com/user-attachments/assets/bac56774-6daa-4b48-8dba-662bd436f3b1" width="100" />
-</a>
-
-<a href="https://www.credly.com/earner/earned/badge/dfa6c8a5-7c91-4c76-9fa4-e777b416ba66">
-  <img src="https://github.com/user-attachments/assets/66174207-e015-4d9a-9f7f-bad57c5f4032" width="100" />
-</a>
-
-<a href="https://www.credly.com/earner/earned/badge/322ee9db-f6f5-4214-a792-81ffacd05bdd">
-  <img src="https://github.com/user-attachments/assets/2e35c245-d63c-448f-9660-d45f0776a0e4" width="100" />
-</a>
-
-<a href="https://www.credly.com/earner/earned/badge/a9468df6-146e-4f47-870f-f22d00740e14">
-  <img src="https://github.com/user-attachments/assets/784ab462-ac1c-41f1-96b7-9ca79ae69411" width="100" />
-</a>
-
 ### Find me in:
 <a href="https://www.linkedin.com/in/matheus-elias/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
