@@ -9,19 +9,17 @@ I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions
 
 ###
 <div align="left">
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  &nbsp;
-  <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  &nbsp;
-  <img width="40" height="40" src="https://cdn.simpleicons.org/googlebigquery/4285F4" />
-  &nbsp;
-  <img width="40" height="40" src="https://cdn.simpleicons.org/looker/4285F4" />
-  &nbsp;
-  <img width="40" height="40" src="https://cdn.simpleicons.org/databricks/FF3621" />
-  &nbsp;
-  <img width="40" height="40" src="https://cdn.simpleicons.org/dbt/FF694B" />
-  &nbsp;
-  <img width="40" height="40" src="https://cdn.simpleicons.org/googlevertexai/4285F4" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/googlebigquery/4285F4"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/looker/4285F4"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.simpleicons.org/databricks/FF3621"/>
+  &nbsp;&nbsp;&nbsp;
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg"/>
 </div>
 
 ### Find me in:
