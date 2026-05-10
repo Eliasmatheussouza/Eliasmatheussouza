@@ -1,6 +1,6 @@
 ## Hi, I'm Matheus! 👋
 
-I'm an Analytics Engineer building scalable solutions on GCP.
+I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions on GCP.
 
 - 🙍🏻‍♂️ *Data Engineering and Analytics*
 - 📝 Bachelor's degree in International Business
