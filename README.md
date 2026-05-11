@@ -43,7 +43,7 @@ I'm an Analytics Engineer building data pipelines, MDM, and Governance solutions
   <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 
-<a href="https://www.credly.com/users/matheus-elias](https://www.credly.com/users/matheus-souza.bd9e27e7">
+<a href="https://www.credly.com/users/matheus-souza.bd9e27e7">
   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
 </a>
 
